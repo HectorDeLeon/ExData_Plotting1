@@ -14,8 +14,6 @@ Sub_Metering_1 <- as.numeric(subSetData$Sub_metering_1)
 Sub_Metering_2 <- as.numeric(subSetData$Sub_metering_2)
 Sub_Metering_3 <- as.numeric(subSetData$Sub_metering_3)
 
-globalActivePower <- as.numeric(subSetData$Global_active_power)
-
 png("plot3.png", width = 480, height = 480)
 
 #Creating a plot
