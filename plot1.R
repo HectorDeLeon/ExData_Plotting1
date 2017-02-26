@@ -1,6 +1,3 @@
-setwd("C:/Nata Docs/Data Science/Course 4 - Exploratory Analysis/week1")
-getwd()
-
 library(datasets)
 
 #Reading data into R
